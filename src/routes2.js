@@ -4,7 +4,6 @@ const express = require('express');
 const router = express.Router();
 const auth = require('./middleware.js');
 
-const Q = require('@nmq/q/client');
 
 router.get('/public-stuff', (req,res,next) => {
   res.status(200).send('You can get here!');

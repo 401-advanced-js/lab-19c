@@ -6,7 +6,7 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-js/lab-19c/pull/1)
 * [![Build Status](https://travis-ci.com/401-advanced-js/lab-17.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-18)
 
 #### Documentation
