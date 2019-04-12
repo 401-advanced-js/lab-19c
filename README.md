@@ -21,7 +21,17 @@
 * in your src folder (in this order too)
   1. `nodemon server.js`
   2. `nodemon logger.js`
-  3. `nodemon app.js ./files/test.txt`
+  3. in base directory
+    a. `nodemon`
+    b. go to 'http://localhost:3001' and ping these routes while looking at the other two tabs
+    '/public-stuff'
+    '/hidden-stuff'
+    '/something-to-read'
+    '/create-a-thing'
+    '/update'
+    '/jp'
+    '/bye-bye'
+    '/everything'
   
 #### Tests
 * `npm run test`
