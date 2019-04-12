@@ -12,6 +12,11 @@ const authRouter = require( './router.js' );
 const routes = require( './routes2.js' );
 const apiRoutes = require('./app2.js');
 
+const Q = require('@nmq/q/server');
+Q.start();
+
+const Q1 = new Q('api');
+
 // Prepare the express app
 const app = express();
 
